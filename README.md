@@ -2,6 +2,8 @@
 
 code for "End-to-End Reinforcement Learning for Automatic Taxonomy Induction" ACL 2018 [[arXiv]](https://arxiv.org/abs/1805.04044)
 
+## test
+
 ## Requirements
 
 python **2.7**  
